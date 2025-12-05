@@ -1,0 +1,8 @@
+{
+  "name": "DE Education",
+  "description": "Sri Lanka's premier A/L education platform with AI tutoring, past papers, and exam resources.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
